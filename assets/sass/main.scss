@@ -1254,6 +1254,7 @@
 						&.active {
 							background: _palette(bg);
 							color: _palette(header, bg) !important;
+							font-weight: 800;
 						}
 					}
 
